@@ -66,3 +66,8 @@ Depending on the complexity of the level, it can take anywhere from a fraction o
 second to many days to solve a level. See the
 [SpyPuzzleSolver](https://github.com/jackpal/SpyPuzzleGameState) package for discussion
 of the limitations of the solver.
+
+# Level Description File Format
+
+See the [Level Format](https://github.com/jackpal/SpyPuzzleGameState/blob/main/Docs/LevelFormat.md) docs
+for a description of the level format.
