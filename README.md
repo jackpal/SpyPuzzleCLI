@@ -8,8 +8,8 @@ This can be used to solve game levels for games like
 # Usage
 
 First, create a text-based level file. See the
-[SpyPuzzleGameState](https://github.com/jackpal/SpyPuzzleGameState) package
-for the specification of the text file format used to define spy puzzle levels.
+[Level Format](https://github.com/jackpal/SpyPuzzleGameState/blob/main/Docs/LevelFormat.md)
+docs for the specification of the text file format used to define spy puzzle levels.
 
 An example simple level file is:
 
@@ -66,8 +66,3 @@ Depending on the complexity of the level, it can take anywhere from a fraction o
 second to many days to solve a level. See the
 [SpyPuzzleSolver](https://github.com/jackpal/SpyPuzzleGameState) package for discussion
 of the limitations of the solver.
-
-# Level Description File Format
-
-See the [Level Format](https://github.com/jackpal/SpyPuzzleGameState/blob/main/Docs/LevelFormat.md) docs
-for a description of the level format.
